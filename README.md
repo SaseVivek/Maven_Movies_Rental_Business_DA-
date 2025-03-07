@@ -30,7 +30,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-<img src="./IMAGES/img.png.png" alt="img.png.png" width="200"/> &nbsp;
+<img src="./img.png" alt="iimg.png" width="200"/> &nbsp;
 
 # Project Result
 
