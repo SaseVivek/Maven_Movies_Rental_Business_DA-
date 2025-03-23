@@ -86,52 +86,52 @@ This project analyzes a movie rental business's database to provide actionable i
 11. "How do we determine the rewards for users who have rented 30 or more times, and what details about their preferences should we consider?"
 
 
-![](Image[Output]/Reward_via_phone.png)
+![](IMAGE/REWARD_VIA_PHONE.png)
 
 12. "Could you pull all payments from our first 100 customers (Based on customers id)"
 
 
-![](Image[Output]/First_100_Customer_Payment.png)
+![](IMAGE/FIRST_100_CUSTOMER_PAYMENTS.png)
 
 13. "Now I’d love to see just payments over $5 for those same customers, since January 1, 2006"
 
 
-![](Image[Output]/JAN_06_2006.png)
+![](IMAGE/JAN_06_2006.png)
 
 14. "Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?"
 
 
-![](Image[Output]/Payments_Over_$5.png)
+![](IMAGE/PAYMENTS_OVER_$5.png)
 
 15. "We need to understand the special features in our films. Could you pull a list of films which include a Behind the Scenes special feature?"
 
 
-![](Image[Output]/BTS.png)
+![](IMAGE/BTS.png)
 
 16. "Which customer qualifies as the top spender, and what rewards or points should we offer them?"
 
 
-![](Image[Output]/Most_Spendings.png)
+![](IMAGE/MOST_SPENDING_CUSTOMER.png)
 
 17. "Could you please pull a count of titles sliced by rental duration?"
 
 
-![](Image[Output]/Sliced_By_Rental_Rate.png)
+![](IMAGE/SLICED_BY_RENTAL_RATE.png)
 
 18. "How do movie ratings and lengths correlate with rental demand (number of movies rented) across various rental periods?"
 
 
-![](Image[Output]/Cheapest_Rental.png)
+![](IMAGE/COMPARE_WITH_RENTAL_DURATION.png)
 
 19. "I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?"
 
 
-![](Image[Output]/Min_Max_Avg.png)
+![](IMAGE/MIN_MAX_AVG.png)
 
 20. "Which movies should be recommended to individuals based on specific demographics like cultural background or interests?"
 
 
-![](Image[Output]/For_Recommedation.png)
+![](IMAGE/FIT_FOR_RECOMMENDATION.png)
 
 21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
 
