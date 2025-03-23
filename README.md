@@ -25,7 +25,8 @@ This project analyzes a movie rental business's database to provide actionable i
 
 # Project Result
 
-[Click here to get full code](https://github.com/MaithiliGajbhiye/Maven_Movies_Rental_Business_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+[Click here to get full code]  
+(https://github.com/SaseVivek/Maven_Movies_Rental_Business_DA-/blob/main/marvelmovies1.sql)
 
 # Query Task
 
