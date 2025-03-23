@@ -136,22 +136,22 @@ This project analyzes a movie rental business's database to provide actionable i
 21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
 
 
-![](Image[Output]/Active_store.png)
+![](IMAGE/ACTIVE_STORE.png)
 
 22. “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description, and the store_id value associated with each item, and its inventory_id. Thanks!”
 
 
-![](Image[Output]/Films_In_Inventory.png)
+![](IMAGE/FILMS_IN_INVENTORY.png)
 
 23. "Can you list the movies that [FIRST_NAME] [LAST_NAME] has been part of, and how many are there in total?"
 
 
-![](Image[Output]/No_Of_Films_By_Actor.png)
+![](IMAGE/NO_OF_FILMS_BY_ACTOR.png)
 
 24. “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
 
 
-![](Image[Output]/Actor_Associated_With_Title.png)
+![](IMAGE/ACTOR_ASSOCIATED_WITH_TITLE.png)
 
 25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
 
@@ -166,7 +166,7 @@ This project analyzes a movie rental business's database to provide actionable i
 27.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
 
 
-![](Image[Output]/Union.png)
+![](IMAGE/UNION.png)
 
 28. Which rating is most prevalant in each store?
 
