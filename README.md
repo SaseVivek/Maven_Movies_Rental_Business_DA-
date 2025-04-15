@@ -155,17 +155,14 @@ This project analyzes a movie rental business's database to provide actionable i
 ![](IMAGE/ACTOR_ASSOCIATED_WITH_TITLE.png)
 
 
-26.“Categorise movie as per length”
+25.“Categorise movie as per length”
 
 
 ![](IMAGE/MOVIES_AS_PER_LENGTH.jpg)
 
-27.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
+26.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
 
 
 ![](IMAGE/UNION.png)
 
-28. Which rating is most prevalant in each store?
 
-
-![](Image[Output]/Prevalent_Rating.png)
